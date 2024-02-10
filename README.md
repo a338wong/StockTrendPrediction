@@ -54,7 +54,7 @@ Several evaluation metrics are calculated to assess the performance of the LSTM 
   - **Adjusted R-squared**: Adjusts the R-squared value to account for the number of predictors in the model. It penalizes excessive complexity and provides a more reliable measure of model fit for multiple predictors.
  
 #### 6. Visualization
-- **Visualization**: Visualizations are generated to compare the predicted stock prices with the actual prices using Plotly graph objects. Line charts are utilized to visualize the closing prices over time, as well as the predicted and actual prices.
+Visualizations are generated to compare the predicted stock prices with the actual prices using Plotly graph objects. Line charts are utilized to visualize the closing prices over time, as well as the predicted and actual prices.
 
 #### 7. Interpretation and Analysis
 - **Insights Generation**: The evaluation metrics and visualizations are analyzed to interpret the accuracy of the predictions and identify any trends or patterns in the data.
