@@ -64,7 +64,7 @@ Several evaluation metrics are calculated to assess the performance of the LSTM 
 [Demo](https://github.com/a338wong/StockTrendPrediction/assets/153765340/a4a845fb-ae97-4cb8-8eaa-1f9a7adc85a3)
 
 ## Credits
-- **[Alan Wong]** - [GitHub Profile](https://github.com/a338wong) - [LinkedIn Profile](www.linkedin.com/in/a338wong)
+- **[Alan Wong]** - [GitHub Profile](https://github.com/a338wong) - [LinkedIn Profile](https:www.linkedin.com/in/a338wong)
 - **[GeeksforGeeks]** - [Youtube](https://www.youtube.com/watch?v=s3CnE2tqQdo&list=PLqM7alHXFySExPLJSzpKfKe6JO44Qm0qj&index=11)
   
 --- 
