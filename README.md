@@ -1,4 +1,4 @@
-# Stock Trend Prediction :chart:
+# Stock Trend Prediction Web App :chart:
 
 ## Table of Contents :bookmark_tabs:
 1. [Project Description](#project-description)
