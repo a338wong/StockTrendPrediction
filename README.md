@@ -1,6 +1,6 @@
 # Stock Trend Prediction :chart:
 
-## Table of Contents
+## Table of Contents :bookmark_tabs:
 1. [Project Description](#project-description)
 2. [How to Install and Run the Project](#how-to-install-and-run-the-project)
 3. [How to Use the Project](#how-to-use-the-project)
@@ -8,10 +8,10 @@
 5. [Demo](#demo)
 6. [Credits](#credits)
 
-## Project Description
+## Project Description :clipboard:
 This project is a stock trend prediction tool implemented in Python using Long Short-Term Memory (LSTM) neural networks. The tool leverages historical stock price data to forecast future prices, aiding investors in making informed decisions. It gives users insights into stock trends, evaluation metrics, and visualizations to facilitate better understanding and analysis.
 
-## How to Install and Run the Project
+## How to Install and Run the Project :hammer_and_wrench:
 To install and run the project locally, follow these steps:
 
 1. Clone this repository to your local machine.
@@ -19,13 +19,13 @@ To install and run the project locally, follow these steps:
 3. Ensure you have Python installed on your machine.
 4. Run the application by executing `streamlit run app.py` in your terminal.
 
-## How to Use the Project
+## How to Use the Project :open_book:
 1. Upon running the application, you will be prompted to enter a stock ticker.
 2. Enter the desired stock ticker and click on the "Predict Stock Price" button.
 3. The application will fetch historical data, perform predictions, and display visualizations along with evaluation metrics.
 4. Analyze the provided data, visualizations, and metrics to gain insights into the predicted stock trends.
 
-## Methodology
+## Methodology :bar_chart:
 #### 1. Data Collection
 - **Source**: The Yahoo Finance API (`yfinance`) collects historical stock price data for the specified stock ticker.
 - **Time Period**: Data is collected from January 1, 2010, to January 1, 2024, to capture long-term trends and fluctuations in the stock market.
@@ -60,11 +60,11 @@ Several evaluation metrics are calculated to assess the performance of the LSTM 
 - **Insights Generation**: The evaluation metrics and visualizations are analyzed to interpret the accuracy of the predictions and identify any trends or patterns in the data.
 - **Decision Support**: The insights derived from the analysis can be used to support investment decision-making processes, providing investors with valuable information for portfolio management and risk assessment.
 
-## Demo 
+## Demo :cinema:
 [Demo](https://github.com/a338wong/StockTrendPrediction/assets/153765340/a4a845fb-ae97-4cb8-8eaa-1f9a7adc85a3)
 
-## Credits
-- **[Alan Wong]** - [GitHub Profile](https://github.com/a338wong) - [LinkedIn Profile](https://www.linkedin.com/in/alan-wong-309160212/)
-- **[GeeksforGeeks]** - [Youtube](https://youtu.be/U_ZCiZ1TgOo?si=jg1cN20JLkQ-ZD2K)
+## Credits :trophy:
+- **Alan Wong** - [GitHub Profile](https://github.com/a338wong) - [LinkedIn Profile](https://www.linkedin.com/in/alan-wong-309160212/)
+- **GeeksforGeeks** - [Youtube](https://youtu.be/U_ZCiZ1TgOo?si=jg1cN20JLkQ-ZD2K)
   
 --- 
