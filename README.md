@@ -1,47 +1,39 @@
-# StockMarketPrediction
-Stock Market Prediction with LSTM in Python
+# StockTrendPrediction
 
-What to Include in your README
-1. Project's Title
-This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
+## Stock Trend Prediction with LSTM in Python
 
-2. Project Description
-This is an important component of your project that many new developers often overlook.
+### Project Description
+This project is a stock trend prediction tool implemented in Python using Long Short-Term Memory (LSTM) neural networks. The tool leverages historical stock price data to forecast future prices, aiding investors in making informed decisions. It provides users with insights into stock trends, evaluation metrics, and visualizations to facilitate better understanding and analysis.
 
-Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
+### Table of Contents
+1. [How to Install and Run the Project](#how-to-install-and-run-the-project)
+2. [How to Use the Project](#how-to-use-the-project)
+3. [Credits](#credits)
+4. [License](#license)
 
-The quality of a README description often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase:
+### How to Install and Run the Project
+To install and run the project locally, follow these steps:
 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
-3. Table of Contents (Optional)
-If your README is very long, you might want to add a table of contents to make it easy for users to navigate to different sections easily. It will make it easier for readers to move around the project with ease.
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Ensure you have Python installed on your machine.
+4. Run the application by executing `streamlit run stockmarketprediction.py` in your terminal.
 
-4. How to Install and Run the Project
-If you are working on a project that a user needs to install or run locally in a machine like a "POS", you should include the steps required to install your project and also the required dependencies if any.
+### How to Use the Project
+1. Upon running the application, you will be prompted to enter a stock ticker.
+2. Enter the desired stock ticker and click on the "Predict Stock Price" button.
+3. The application will fetch historical data, perform predictions, and display visualizations along with evaluation metrics.
+4. Analyze the provided data, visualizations, and metrics to gain insights into the predicted stock trends.
 
-Provide a step-by-step description of how to get the development environment set and running.
+### Credits
+- **[Your Name]** - Project Lead - [GitHub Profile](link) - [LinkedIn Profile](link)
+- **[Team Member 1]** - Data Analysis - [GitHub Profile](link) - [LinkedIn Profile](link)
+- **[Team Member 2]** - Machine Learning Expert - [GitHub Profile](link) - [LinkedIn Profile](link)
 
-5. How to Use the Project
-Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
+### License
+This project is licensed under the [MIT License](link). Feel free to modify and distribute the code for both commercial and non-commercial purposes.
 
-You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
+--- 
 
-Also if your project will require authentication like passwords or usernames, this is a good section to include the credentials.
-
-6. Include Credits
-If you worked on the project as a team or an organization, list your collaborators/team members. You should also include links to their GitHub profiles and social media too.
-
-Also, if you followed tutorials or referenced a certain material that might help the user to build that particular project, include links to those here as well.
-
-This is just a way to show your appreciation and also to help others get a first hand copy of the project.
-
-7. Add a License
-For most README files, this is usually considered the last part. It lets other developers know what they can and cannot do with your project.
-
-We have different types of licenses depending on the kind of project you are working on. Depending on the one you will choose it will determine the contributions your project gets.
-
-The most common one is the GPL License which allows other to make modification to your code and use it for commercial purposes. If you need help choosing a license, use check out this link: https://choosealicense.com/
-
-Up to this point what we have covered are the minimum requirements for a good README. But you might also want to consider adding the following sections to make it more eye catching and interactive.
+*Disclaimer: This app provides stock price predictions for educational purposes. 
+Always do your own research before making any investment decisions.*
