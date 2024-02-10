@@ -14,11 +14,43 @@ This project is a stock trend prediction tool implemented in Python using Long S
 ## How to Install and Run the Project :hammer_and_wrench:
 To install and run the project locally, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Ensure you have Python installed on your machine.
-4. Run the application by executing `streamlit run app.py` in your terminal.
+1. **Clone the Repository:**
+   - Open a terminal or command prompt.
+   - Navigate to the directory where you want to clone the repository.
+   - Run the following command to clone the repository:
 
+     ```bash
+     git clone https://github.com/a338wong/StockTrendPrediction.git
+     ```
+
+2. **Navigate to Project Directory:**
+   - Change into the directory of the cloned repository:
+
+     ```bash
+     cd StockTrendPrediction
+     ```
+
+3. **Install Dependencies:**
+   - Make sure you have Python installed on your machine. You can download it from [here](https://www.python.org/downloads/).
+   - Install the required dependencies by running:
+
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - This command will install all the necessary Python packages specified in the `requirements.txt` file.
+
+4. **Run the Application:**
+   - After installing the dependencies, you can run the application.
+   - Execute the following command in your terminal:
+
+     ```bash
+     streamlit run app.py
+     ```
+
+5. **Access the Application:**
+   - Once the application is running, it will provide a local URL (usually http://localhost:8501).
+   - Open a web browser and navigate to the provided URL.
+     
 ## How to Use the Project :open_book:
 1. Upon running the application, you will be prompted to enter a stock ticker.
 2. Enter the desired stock ticker and click on the "Predict Stock Price" button.
