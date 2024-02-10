@@ -65,6 +65,6 @@ Several evaluation metrics are calculated to assess the performance of the LSTM 
 
 ## Credits
 - **[Alan Wong]** - [GitHub Profile](https://github.com/a338wong) - [LinkedIn Profile](https://www.linkedin.com/in/alan-wong-309160212/)
-- **[GeeksforGeeks]** - [Youtube](https://www.youtube.com/watch?v=s3CnE2tqQdo&list=PLqM7alHXFySExPLJSzpKfKe6JO44Qm0qj&index=11)
+- **[GeeksforGeeks]** - [Youtube](https://youtu.be/U_ZCiZ1TgOo?si=jg1cN20JLkQ-ZD2K)
   
 --- 
