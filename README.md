@@ -1,7 +1,7 @@
 # Stock Trend Prediction Web App :chart:
 
 ## Table of Contents :bookmark_tabs:
-1. [Project Description](##project-description)
+1. [Project Description](#project-description)
 2. [How to Install and Run the Project](#how-to-install-and-run-the-project)
 3. [How to Use the Project](#how-to-use-the-project)
 4. [Methodology](#methodology)
